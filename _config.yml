@@ -1,4 +1,8 @@
-layout_spectrum: 0.6804512
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.4309393593575805
@@ -28,13 +32,9 @@ color:
     - '#253237'
   lightness: 0.1036774236708879
 typography_spectrum: 0.8997494
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.1222597
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: DKV
