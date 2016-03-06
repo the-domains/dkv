@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DKV]]></title>
         <description><![CDATA[DKV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dkv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 05:28:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 05:28:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dkv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SKULDER</p>]]></description>
+            <link>https://thegrid.ai/dkv/55bec8f2-e547-4a27-abfb-448324b00cb8/index.html</link>
+            <guid isPermaLink="false">55bec8f2-e547-4a27-abfb-448324b00cb8</guid>
+            <pubDate>Sun, 06 Mar 2016 05:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>PROBLEMER</p>]]></description>
-            <link>undefined9a53452b-0d04-49cf-968f-076cd4dd814a/index.html</link>
+            <link>https://thegrid.ai/dkv/9a53452b-0d04-49cf-968f-076cd4dd814a/index.html</link>
             <guid isPermaLink="false">9a53452b-0d04-49cf-968f-076cd4dd814a</guid>
             <pubDate>Sun, 06 Mar 2016 05:28:28 GMT</pubDate>
         </item>
