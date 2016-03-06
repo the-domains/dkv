@@ -1,0 +1,28 @@
+name: DKV
+favicon: null
+layout_spectrum: 0.047259623650461435
+typography_spectrum: 0.766075013205409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.36468938388861716
+  lightness: 0.10367742367088795
+  saturation: 0.43093935935758054
+  rhythmicContrast: 0.5721538204234093
+purpose: []
