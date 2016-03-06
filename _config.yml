@@ -1,28 +1,40 @@
-name: DKV
-favicon: null
-layout_spectrum: 0.047259623650461435
-typography_spectrum: 0.766075013205409
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.6804512
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4309393593575805
+  brandStrength: 0.3646893838886172
+  rhythmicContrast: 0.5721538204234093
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.36468938388861716
-  lightness: 0.10367742367088795
-  saturation: 0.43093935935758054
-  rhythmicContrast: 0.5721538204234093
-purpose: []
+  lightness: 0.1036774236708879
+typography_spectrum: 0.8997494
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: DKV
